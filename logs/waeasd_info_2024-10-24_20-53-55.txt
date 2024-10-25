@@ -1,0 +1,7 @@
+Información del bot:
+Nombre del bot: waeasd
+Token del bot: MTI3MDQ2MjQ5NzQwNDc0Nzc5Nw.G5fPfQ.2M_***********_******-****************
+Servidores:
+- Cimientos Example (ID: 1299158************)
+  Miembros: 2
+  Boosts: False
