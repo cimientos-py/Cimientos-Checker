@@ -1,0 +1,3 @@
+fade
+discord.py
+colorama
