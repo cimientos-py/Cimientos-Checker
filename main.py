@@ -32,7 +32,7 @@ text = '''
                                     ·▀▀▀ ▀▀▀ · ▀▀▀ ·▀▀▀ ·▀  ▀ ▀▀▀ .▀  ▀
 
 
-                                         cimientos on discord <3
+                                         xfsc on discord <3
 
 '''
 
