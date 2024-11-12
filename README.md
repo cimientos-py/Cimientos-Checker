@@ -12,7 +12,7 @@
   <img  src="https://img.shields.io/github/license/cimientos-py/Cimientos-Checker?logoColor=7f00ff">
   <br>
   <p align="center">
-    ds: cimientos
+    ds: xfsc
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 </div> 
